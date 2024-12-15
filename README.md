@@ -23,18 +23,6 @@ To install the dependencies, run:
 pip install cirq numpy
 ```
 
-## Usage
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
-   ```
-
-2. Run the script:
-   ```bash
-   python shor's_1.py
-   ```
-
 3. Enter a composite number (N) when prompted. Optionally, provide a base (a) or leave it blank to use a random value.
 
 ## Example
